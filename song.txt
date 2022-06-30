@@ -1,0 +1,9 @@
+East Or West
+Home is Best
+But 25 times
+<<<<<<< HEAD
+6655555
+777
+=======
+55555
+>>>>>>> 30df254aa5f3aea6b2426e27ad2ad00ef087e16b
